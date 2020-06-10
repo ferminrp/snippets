@@ -1,0 +1,7 @@
+git init
+git clone https://github.com/ferminrp/snippets
+git add --all
+git commit
+shift + z, shift + z (https://stackoverflow.com/questions/13340329/how-to-save-a-git-commit-message-from-windows-cmd)
+git push
+git pull https://github.com/ferminrp/snippets
