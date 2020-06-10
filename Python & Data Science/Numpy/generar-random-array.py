@@ -13,3 +13,7 @@ random_generator_seed = np.random.default_rng(seed_cualquier_numero)
 low = 1
 high = 100
 big_array = random_generator_seed.uniform(low, high, size=big_array_size)
+
+
+# Alternativa lite
+np.random.normal(3, 2.5, size=(2, 4))
